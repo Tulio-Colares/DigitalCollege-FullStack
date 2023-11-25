@@ -10,6 +10,6 @@ html {
 }
 
 :root {
-    --menu-link-color: #000;
+    --menu-link-black: black;
     --menu-link-white: #fff;
 }
