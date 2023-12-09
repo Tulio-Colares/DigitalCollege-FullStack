@@ -4,7 +4,7 @@
     text-align: center;
     position: fixed;
     width: 100%;
-    background-color: var(--menu-link-color)
+    background-color: var(--link-color)
 }
 
 .nav-menu .menu-item {
